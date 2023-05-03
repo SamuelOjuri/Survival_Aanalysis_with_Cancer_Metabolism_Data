@@ -1,4 +1,4 @@
-# Survival Aanalysis with Cancer Metabolism Data
+# Survival Analysis with Cancer Metabolism Data
 
 #Predicting Patient Survival with Cancer Metabolism and Identifying Key Factors for Early Diagnosis.
 
