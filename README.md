@@ -1,6 +1,6 @@
 # Survival Aanalysis with Cancer Metabolism Data
 
-Predicting Patient Survival with Cancer Metabolism and Identifying Key Factors for Early Diagnosis
+#Predicting Patient Survival with Cancer Metabolism and Identifying Key Factors for Early Diagnosis.
 
 According to the World Health Organization, 2.3 million women were diagnosed with breast cancer in 2020 while 685,000 deaths were recorded globally. As of ending of the year 2020, 7.8 million women alive were recorded to have been diagnosed with breast cancer in the past 5 years, making it the most prevalent kind of cancer in the world.
 
